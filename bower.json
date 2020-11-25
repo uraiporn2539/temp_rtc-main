@@ -1,0 +1,26 @@
+{
+  "name": "temp_rtc",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "uraiporn2539 <58030249@kmitl.ac.th>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/uraiporn2539/temp_rtc",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "chart.js": "^2.9.4",
+    "angular-chart.js": "^1.1.1",
+    "moment": "^2.29.1",
+    "angular-datatables": "0.6.2",
+    "datatables.net": "^1.10.22",
+    "datatables.net-dt": "^3.2.2"
+  }
+}
